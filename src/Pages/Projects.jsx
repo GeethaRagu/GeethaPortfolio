@@ -6,7 +6,7 @@ const Projects = () => {
   return (
     <div>
       <h4 className="text-fuchsia-900 font-bold text-2xl px-10">My Explores</h4>
-      <div className="mt-5 flex flex-row justify-around">
+      <div className="mt-5 flex  flex-col md:flex-row justify-around">
         <div className="px-5">
           <div className="flex flex-col items-center bg-white border border-gray-200 rounded-lg shadow-sm md:flex-row md:max-w-xl hover:bg-gray-100 dark:border-gray-700 dark:bg-gray-800 dark:hover:bg-gray-700">
             <img
@@ -106,7 +106,7 @@ const Projects = () => {
           </div>
         </div>
       </div>
-      <div className="mt-5 flex flex-row justify-around">
+      <div className="mt-5 flex  flex-col md:flex-row justify-around">
         <div className="px-5">
           <div className="flex flex-col items-center bg-white border border-gray-200 rounded-lg shadow-sm md:flex-row md:max-w-xl hover:bg-gray-100 dark:border-gray-700 dark:bg-gray-800 dark:hover:bg-gray-700">
             <img
