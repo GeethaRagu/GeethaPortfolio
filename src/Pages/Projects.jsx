@@ -7,7 +7,7 @@ const Projects = () => {
     <div>
       <h4 className="text-fuchsia-900 font-bold text-2xl px-10">My Explores</h4>
       <div className="mt-5 flex  flex-col md:flex-row justify-around">
-        <div className="px-5">
+        <div className="">
           <div className="flex flex-col items-center bg-white border border-gray-200 rounded-lg shadow-sm md:flex-row md:max-w-xl hover:bg-gray-100 dark:border-gray-700 dark:bg-gray-800 dark:hover:bg-gray-700">
             <img
               className="object-cover w-full rounded-t-lg h-96 md:h-auto md:w-48 md:rounded-none md:rounded-s-lg px-2"
@@ -107,7 +107,7 @@ const Projects = () => {
         </div>
       </div>
       <div className="mt-5 flex  flex-col md:flex-row justify-around">
-        <div className="px-5">
+        <div className="">
           <div className="flex flex-col items-center bg-white border border-gray-200 rounded-lg shadow-sm md:flex-row md:max-w-xl hover:bg-gray-100 dark:border-gray-700 dark:bg-gray-800 dark:hover:bg-gray-700">
             <img
               className="object-cover w-full rounded-t-lg h-96 md:h-auto md:w-48 md:rounded-none md:rounded-s-lg px-2"
@@ -117,7 +117,7 @@ const Projects = () => {
             <div className="flex flex-col justify-between p-4">
               <div className="flex flex-row  justify-between">
                 <h5 className="mb-2 text-2xl font-bold  text-gray-900 dark:text-white">
-                  Suss Out
+                To - Do
                 </h5>
 
                 <a
