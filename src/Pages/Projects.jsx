@@ -43,7 +43,9 @@ const Projects = () => {
                   quiz
                 </p>
               </p>
-
+              <p className="font-light text-sm mb-3">
+                #ReactJS #TailwindCSS #Redux #NodeJS #MongoDB #ExpressJS #Stripe
+              </p>
               <button
                 type="button"
                 className="text-white bg-gray-800 hover:bg-gray-900 focus:outline-none focus:ring-4 focus:ring-gray-300 font-medium rounded-full text-sm px-5 py-2 me-2 mb-2 dark:bg-gray-800 dark:hover:bg-gray-700 dark:focus:ring-gray-700 dark:border-gray-700"
@@ -71,7 +73,7 @@ const Projects = () => {
               <h5 className="mb-2 text-2xl font-bold  text-gray-900 dark:text-white">
                 Chat-app
               </h5>
- 
+
               <a
                 title="View Source"
                 target="_blank"
@@ -90,6 +92,9 @@ const Projects = () => {
               <p>Designing using daisyUI, Sending messages and get messages</p>
               <h2 className="text-gray-500 font-bold">Future updates</h2>
               <p>Update online users using Socket io</p>
+            </p>
+            <p className="font-light text-sm mb-3">
+              #ReactJS #DaisyUI #Redux #NodeJS #MongoDB #ExpressJS
             </p>
             <button
               type="button"
@@ -117,7 +122,7 @@ const Projects = () => {
             <div className="flex flex-col justify-between p-4">
               <div className="flex flex-row  justify-between">
                 <h5 className="mb-2 text-2xl font-bold  text-gray-900 dark:text-white">
-                To - Do
+                  To - Do
                 </h5>
 
                 <a
@@ -130,15 +135,17 @@ const Projects = () => {
                 </a>
               </div>
               <p className="mb-3 font-normal text-gray-700 dark:text-gray-400">
-              A simple Todo app where user can Add/ Edit / Delete Todo.
+                A simple Todo app where user can Add/ Edit / Delete Todo.
                 <h1 className="text-gray-500 font-bold">Lessons Learnt</h1>
-                <p>Gained proficiency in mongoose and asynchronous Javascript.</p>
-                <h2 className="text-gray-500 font-bold">Future updates</h2>
                 <p>
-                  Login using Google , set reminders / deadlines. 
+                  Gained proficiency in mongoose and asynchronous Javascript.
                 </p>
+                <h2 className="text-gray-500 font-bold">Future updates</h2>
+                <p>Login using Google , set reminders / deadlines.</p>
               </p>
-
+              <p className="font-light text-sm mb-3">
+                #ReactJS #Bootstrap #Redux #NodeJS #MongoDB #ExpressJS
+              </p>
               <button
                 type="button"
                 className="text-white bg-gray-800 hover:bg-gray-900 focus:outline-none focus:ring-4 focus:ring-gray-300 font-medium rounded-full text-sm px-5 py-2 me-2 mb-2 dark:bg-gray-800 dark:hover:bg-gray-700 dark:focus:ring-gray-700 dark:border-gray-700"
@@ -154,8 +161,6 @@ const Projects = () => {
             </div>
           </div>
         </div>
-
-      
       </div>
     </div>
   );

@@ -110,6 +110,9 @@ const Home = () => {
                   platforms and devices, including mobile phones and tablets.
                   This makes it convenient and accessible when desired.
                 </p>
+                <p className="font-light text-sm mb-3">
+                  #ReactJS #TailwindCSS #Redux #NodeJS #MongoDB #ExpressJS #Stripe 
+                </p>
                 <button
                   type="button"
                   className="w-15 text-white bg-gray-800 hover:bg-gray-900 focus:outline-none focus:ring-4 focus:ring-gray-300 font-medium rounded-full text-sm px-5 py-2 me-2 mb-2 dark:bg-gray-800 dark:hover:bg-gray-700 dark:focus:ring-gray-700 dark:border-gray-700"
@@ -151,6 +154,9 @@ const Home = () => {
                   efficiently.It is a secured application.It is more easy to
                   access and use.
                 </p>
+                <p className="font-light text-sm mb-3">
+                #ReactJS #DaisyUI #Redux #NodeJS #MongoDB #ExpressJS
+                </p>
                 <button
                 type="button"
                 class="text-white bg-gray-800 hover:bg-gray-900 focus:outline-none focus:ring-4 focus:ring-gray-300 font-medium rounded-full text-sm px-5 py-2 me-2 mb-2 dark:bg-gray-800 dark:hover:bg-gray-700 dark:focus:ring-gray-700 dark:border-gray-700"
@@ -186,6 +192,9 @@ const Home = () => {
                 </div>
                 <p className="mb-3 font-normal text-gray-700 dark:text-gray-400">
                 A simple Todo app where user can Add/ Edit / Delete Todo.
+                </p>
+                <p className="font-light text-sm mb-3">
+                #ReactJS #Bootstrap #Redux #NodeJS #MongoDB #ExpressJS
                 </p>
                 <button
                   type="button"
