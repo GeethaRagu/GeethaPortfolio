@@ -66,12 +66,12 @@ const Projects = () => {
             src="/images/projectimage2.jpg"
             alt=""
           />
-          <div className="flex flex-col justify-between pt-4 leading-normal">
+          <div className="flex flex-col justify-between p-4">
             <div className="flex flex-row  justify-between">
               <h5 className="mb-2 text-2xl font-bold  text-gray-900 dark:text-white">
                 Chat-app
               </h5>
-
+ 
               <a
                 title="View Source"
                 target="_blank"
