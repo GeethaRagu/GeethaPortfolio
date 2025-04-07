@@ -110,14 +110,14 @@ const About = () => {
         </ul>
       </div>
 
-      <p className="font-bold mt-4 mb-2 ml-2">MY ADDITIONAL SKILLS</p>
+      <p className="font-bold mt-4 mb-2 ml-2">FUNCTIONAL SKILLS</p>
       <div className="ml-4">
         <ul className="pl-4 list-none hover:list-disc">
-          <li>Managing a project efficiently</li>
-          <li>Creating Documents</li>
-          <li>Motivated by problem solving</li>
-          <li>Independent worker</li>
-          <li>Fast learner</li>
+          <li>Web application development</li>
+          <li>Frontend and Backend Integration</li>
+          <li>RESTful API management</li>
+          <li>Authentication and Authorization</li>
+         
         </ul>
       </div>
     </div>
