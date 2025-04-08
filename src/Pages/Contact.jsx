@@ -81,7 +81,7 @@ const Contact = () => {
             typically respond within 24 hours.
           </p>
         </div>
-        <div className="p-5 w-80">
+        <div className="p-5 px-10 w-80">
           <h4 className="text-fuchsia-900 font-semibold text-md font-serif mb-2">
             Get in touch
           </h4>

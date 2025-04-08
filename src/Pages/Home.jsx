@@ -83,7 +83,7 @@ const Home = () => {
           Notable Projects
         </h1>
         <div className="mt-5 grid md:grid-cols-2 grid-cols-1 gap-4 justify-between p-5">
-          <div className="flex flex-col items-center bg-white border border-gray-200 rounded-lg shadow-sm lg:flex-row lg:max-w-xl hover:bg-gray-100 dark:border-gray-700 dark:bg-gray-800 dark:hover:bg-gray-700">
+          <div className="flex flex-col items-center bg-white border border-gray-200 rounded-lg shadow-sm lg:flex-row lg:max-w-xl hover:bg-gray-100 dark:border-gray-700 dark:bg-gray-800 dark:hover:bg-gray-700 p-4">
             <img
               className="object-cover w-full rounded-t-lg h-96 md:h-auto md:w-48 md:rounded-none md:rounded-s-lg px-2"
               src="/images/projectimage1.jpg"
@@ -137,7 +137,7 @@ const Home = () => {
               </button>
             </div>
           </div>
-          <div className="flex flex-col items-center bg-white border border-gray-200 rounded-lg shadow-sm lg:flex-row lg:max-w-xl hover:bg-gray-100 dark:border-gray-700 dark:bg-gray-800 dark:hover:bg-gray-700">
+          <div className="flex flex-col items-center bg-white border border-gray-200 rounded-lg shadow-sm lg:flex-row lg:max-w-xl hover:bg-gray-100 dark:border-gray-700 dark:bg-gray-800 dark:hover:bg-gray-700 p-4">
             <img
               className=" w-full rounded-t-lg h-96 md:h-auto md:w-48 md:rounded-none md:rounded-s-lg px-2"
               src="/images/projectimage2.jpg"
@@ -191,7 +191,7 @@ const Home = () => {
               </button>
             </div>
           </div>
-          <div className="flex flex-col items-center bg-white border border-gray-200 rounded-lg shadow-sm lg:flex-row lg:max-w-xl hover:bg-gray-100 dark:border-gray-700 dark:bg-gray-800 dark:hover:bg-gray-700">
+          <div className="flex flex-col items-center bg-white border border-gray-200 rounded-lg shadow-sm lg:flex-row lg:max-w-xl hover:bg-gray-100 dark:border-gray-700 dark:bg-gray-800 dark:hover:bg-gray-700 p-4">
             <img
               className="object-cover w-full rounded-t-lg h-96 md:h-auto md:w-48 md:rounded-none md:rounded-s-lg px-2"
               src="/images/projectimage3.jpg"
@@ -241,7 +241,7 @@ const Home = () => {
               </button>
             </div>
           </div>
-          <div className="flex flex-col items-center bg-white border border-gray-200 rounded-lg shadow-sm lg:flex-row lg:max-w-xl hover:bg-gray-100 dark:border-gray-700 dark:bg-gray-800 dark:hover:bg-gray-700">
+          <div className="flex flex-col items-center bg-white border border-gray-200 rounded-lg shadow-sm lg:flex-row lg:max-w-xl hover:bg-gray-100 dark:border-gray-700 dark:bg-gray-800 dark:hover:bg-gray-700 p-4">
             <img
               className="object-cover w-full rounded-t-lg h-96 md:h-auto md:w-48 md:rounded-none md:rounded-s-lg px-2"
               src="/images/projectimage4.png"
