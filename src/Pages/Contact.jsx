@@ -49,7 +49,7 @@ const Contact = () => {
       <h1 className="text-fuchsia-900 font-bold text-4xl text-center font-serif mb-5">
         CONTACT ME
       </h1>
-      <div className="flex flex-row justify-self-auto ">
+      <div className="flex md:flex-row md:justify-self-auto flex-col">
         <div className="px-10">
           <h3 className="font-bold text-2xl">Geetha P</h3>
           <ul className="flex flex-row pt-4">
