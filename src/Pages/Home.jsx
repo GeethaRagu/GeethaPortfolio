@@ -79,6 +79,7 @@ const Home = () => {
       </div>
 
       <div>
+      
         <h1 className="text-fuchsia-900 font-bold text-4xl text-center">
           Notable Projects
         </h1>
