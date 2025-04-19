@@ -56,7 +56,7 @@ const Contact = () => {
             <li className="mt-1">
               <GoPersonFill />
             </li>
-            <li>&nbsp;&nbsp;Web developer</li>
+            <li>&nbsp;&nbsp;Web developer | &nbsp;&nbsp;Full Stack developer | &nbsp;&nbsp;Frontend developer</li>
           </ul>
           <ul className="flex flex-row pt-4">
             <li className="mt-1">
@@ -70,12 +70,12 @@ const Contact = () => {
             </li>
             <li>&nbsp;&nbsp;geethumsp@gmail.com</li>
           </ul>
-          <ul className="flex flex-row pt-4">
+          {/* <ul className="flex flex-row pt-4">
             <li className="mt-1">
               <FaPhone />
             </li>
             <li>&nbsp;&nbsp;+91 98948 91753</li>
-          </ul>
+          </ul> */}
           <p className="pt-5">
             Feel free to reach out for opportunities, or just to say hello! I
             typically respond within 24 hours.
